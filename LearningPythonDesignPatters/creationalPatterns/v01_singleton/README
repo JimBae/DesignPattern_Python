@@ -1,0 +1,16 @@
+we	explored	design	patterns	and	their	classifications.
+As	we	area aware,	design	patterns	can	be	classified	under	three	main	categories:	structural,
+behavioral,	and	creational	patterns.
+In	this	chapter,	we	will	go	through	the	Singleton	design	pattern—one	of	the	simplest	and
+well-known	Creational	design	patterns	used	in	application	development.	This	chapter	will
+give	you	a	brief	introduction	to	the	Singleton	pattern,	take	you	through	a	real-world
+example	where	this	pattern	can	be	used,	and	explain	it	in	detail	with	the	help	of	Python
+implementations.	You	will	learn	about	the	Monostate	(or	Borg)	design	pattern	that	is	a
+variant	of	the	Singleton	design	pattern.
+In	this	chapter,	we	will	cover	the	following	topics	in	brief:
+An	understanding	of	the	Singleton	design	pattern
+A	real-world	example	of	the	Singleton	pattern
+The	Singleton	pattern	implementation	in	Python
+The	Monostate	(Borg)	pattern
+At	the	end	of	the	chapter,	we	have	a	short	summary	on	Singletons.	This	will	help	you
+think	independently	about	some	of	the	aspects	of	the	Singleton	design	pattern.
